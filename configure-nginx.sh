@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Update apt cache.
-# sudo apt-get update
+sudo apt-get update
 
 # Install Nginx.
-# sudo apt-get install -y nginx
+sudo apt-get install -y nginx
 
 # Make directory
 sudo mkdir -p /var/www/html
